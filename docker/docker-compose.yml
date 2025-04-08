@@ -7,4 +7,4 @@ services:
     ports:
       - 8501:8501
     build:
-      dockerfile: './Dockerfile'
+      dockerfile: ./Dockerfile
